@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Safghanalam
-- 👀 I’m interested in cyber security, Full Stack Development and programming.
-- 🌱 I’m currently pursuing B.Tech.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me just mail me on khansafgan1743@gmail.com
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<h1 align="center"><img width="60" src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png"> Hi <img width="35" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" >, I'm Safghan Alam <img width="60" src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png"></h1>
+<h3 align="center">A passionate Frontend/Software developer</h3>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/ab20222b61de15d0cddcaf0f49baa956ee4368c1518d1271bccc0cfd04f68891/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f4d756e566951356665523239734d465666612f67697068792e6769663f6369643d366330396239353263376a677670703362677367707376336732676b33736f623032787737693835316d37336667667a267269643d67697068792e6769662663743d73">
 
-<!---
-Safghanalam/Safghanalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=safghanalam&label=Profile%20views&color=0e75b6&style=flat" alt="safghanalam" /> </p>
+
+- 🌱 I’m currently learning **NodeJS, PHP, JAVA**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Safghanalam](https://github.com/Safghanalam)
+
+- 💬 Ask me about **Python, C++, Frontend Development**
+
+- 📫 How to reach me **khansafgan1743@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/alamsafghan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alamsafghan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/safghan-alam-38bb4b206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/safghan-alam-38bb4b206/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/the_khan_safghan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/the_khan_safghan/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/khansafgan1743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khansafgan1743" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/safghanalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="safghanalam" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/khansafgan1743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khansafgan1743" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safghanalam&show_icons=true&locale=en&layout=compact" alt="safghanalam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safghanalam&show_icons=true&locale=en" alt="safghanalam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safghanalam&" alt="safghanalam" /></p>
