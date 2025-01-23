@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 <p align="left"> <a href="https://twitter.com/alamsafghan" target="blank"><img src="https://img.shields.io/twitter/follow/alamsafghan?logo=twitter&style=for-the-badge" alt="alamsafghan" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, PHP, JAVA**
+- 🌱 I’m currently learning **Flutter, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Safghanalam](https://github.com/Safghanalam)
 
