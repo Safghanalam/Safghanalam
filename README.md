@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Safghanalam](https://github.com/Safghanalam)
 
-- 💬 Ask me about **Python, C++, Frontend Development**
+- 💬 Ask me about **Python, C++, Frontend Development, Backend Development, Laravel**
 
 - 📫 How to reach me **khansafgan1743@gmail.com**
 
